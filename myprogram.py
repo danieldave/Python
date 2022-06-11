@@ -1,0 +1,5 @@
+print("This is my first program running on powershell")
+print("It all looks shining and amazing")
+print("How do I keep up doing this?")
+print("when its hard,use the powershell")
+print("And maybe a notepad!")
