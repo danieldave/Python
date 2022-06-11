@@ -1,2 +1,2 @@
 #Python
-These are few projects  i made ehile learning python
+These are few projects  i made while learning python
